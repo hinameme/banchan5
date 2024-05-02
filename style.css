@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size:100%;
+    width: 1920px;
+}
+
+header{
+    background:#555555 ;
+    border: #707070;
+    color:#FFFFFF ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    
+
+}
+header h2{
+    font-size: 2.8em;
+    margin-left: 217px;
+}
+header ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    font-size: 2.5em; 
+}
+header ul li:first-child{
+    max-width: 149px;
+    max-height: 40px;
+    margin-right: 38px;
+}
+header ul li:last-child{
+    max-width: 156px;
+    max-height: 40px;
+    margin-right: 213px;
+}
+
+
+
+
+main img{
+    margin-bottom: 143px;
+
+}
+
+main u{
+    font-size: 3.7em;
+    color: #707070;
+    text-align: center; 
+}
+
+
+
+
+#hack .flex{
+    display: flex;
+}
+#hack img{
+    margin-left: 300px;
+    margin-top: 102px;
+    margin-right: 73px;
+}
+#hack h2{
+    font-size: 3.1em;
+    caret-color:#555555 ;
+    width: 761px;
+    height: 50px;
+    margin-top: 138px;
+    margin-right: 335px;
+    margin-bottom: 70px; 
+}
+#hack p{
+    font-size: 1.5em;
+    color: #707070;
+    margin-right: 295px;
+}
+
+
+
+
+
+
+
+#bicycle h2{
+    font-size: 3.7em;
+    color: #555555;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #555555;
+}
+#bicycle .flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    gap: 25px;
+}
+#bicycle .flex img{
+    width: 508px;
+    height: 412px;
+}
+
+#bicycle .flex p{
+    font-size: 3.7em;
+    color: #555555;
+    text-align: center;
+}
+
+
+
+
+
+footer {
+    background-color:#707070 ;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    width: 1920px;
+    height: 80px;
+    margin-top: 150px;
+}
+footer p{
+    padding: 25px;
+}
+
+
+
+
+
+
+    
+
